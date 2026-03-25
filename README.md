@@ -1,8 +1,7 @@
-# 📖 DIY ESP32 E-Reader
+# 📖 Personal ESP32 E-Reader
 
 ## 💡 The Origin Story
-I built this for one simple reason: I kept stealing my girlfriend's e-reader. 
-
+I kept stealing my girlfriend’s e‑reader, so I figured, why not build one myself?
 Instead of just buying my own, I realized this was the perfect excuse to dive into the world of electronics and build one from scratch. This project is my hands-on introduction to embedded systems, bridging the gap between raw hardware components and functional software.
 
 ## 🛠️ The Tech Stack
